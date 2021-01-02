@@ -16,3 +16,7 @@
 
 - git add .  (todos arquivos)
 - git add nome_do_arquivos (adiciona um arquivo)
+
+### Salvar os arquivos alterados ou incluidos na pasta controlada pelo git e informar uma mensagem com notivo
+
+- git commit -m "arquivos alterados em algum lugar para atender uma demanda etc"
