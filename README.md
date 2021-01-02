@@ -12,7 +12,7 @@
 
 - git status
 
-### adionar arquivos incluidos ou alterados para controle do controle
+### adionar arquivos incluidos ou alterados para controle do git
 
 - git add .  (todos arquivos)
 - git add nome_do_arquivos (adiciona um arquivo)
